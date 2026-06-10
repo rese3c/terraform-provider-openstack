@@ -1,0 +1,3 @@
+# CI replay marker for test/acceptancetest.sh
+feature_branch: replay-232a2496
+workflow: .github/workflows/functional-keymanager.yml
